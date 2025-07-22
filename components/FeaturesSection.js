@@ -11,7 +11,7 @@ const features = [
   {
     icon: Zap,
     title: "Predictive Insights for Growth",
-    description: "Leverage AI-driven analytics to forecast trends, optimise operations, and identify new opportunities ahead of the market.",
+    description: "Enable AI-driven analytics to forecast trends, optimise operations, and identify new opportunities ahead of the market.",
   },
   {
     icon: Lock,
@@ -21,7 +21,7 @@ const features = [
   {
     icon: Scaling,
     title: "Scalable Infrastructure for Every Business",
-    description: "From startups to global enterprises, Geolox adapts to your needs and grows with your ambitions.",
+    description: "From startups to global enterprises, GEOLOX adapts to your needs and grows with your ambitions.",
   },
 ];
 
@@ -39,7 +39,7 @@ export default function FeaturesSection() {
         >
           <h2 className="text-4xl md:text-5xl font-extrabold text-white mb-4 drop-shadow-lg">Platform Capabilities</h2>
           <p className="mt-4 text-xl text-gray-300 max-w-2xl mx-auto">
-            Geolox delivers actionable geospatial intelligence to drive efficiency, growth, and competitive advantage. <span className="text-cyan-300 font-semibold">See how our platform powers real-world success in our <a href='#' className='underline hover:text-emerald-400'>Industry Solutions</a>.</span>
+            GEOLOX delivers actionable geospatial intelligence to drive efficiency, growth, and competitive advantage. <span className="text-cyan-300 font-semibold">See how our platform powers real-world success in our <a href='#' className='underline hover:text-emerald-400'>Industry Solutions</a>.</span>
           </p>
         </motion.div>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
