@@ -52,12 +52,12 @@ export default function ContactSection() {
                     >
                         <h2 className="text-4xl md:text-5xl font-extrabold text-white mb-4 drop-shadow-lg">Ready to Get Started?</h2>
                         <p className="mt-4 text-xl text-gray-300">
-                            Let's talk about how Geolox can revolutionize your business. Fill out the form, and we'll be in touch shortly.
+                            Let's talk about how Geolox can revolutionise your business. Fill out the form, and we'll be in touch shortly.
                         </p>
                         <div className="mt-8 space-y-4 text-gray-300">
-                            <p><strong>Email:</strong> contact@geolox.com</p>
-                            <p><strong>Phone:</strong> +1 (555) 123-4567</p>
-                            <p><strong>Address:</strong> 123 Tech Avenue, Silicon Valley, CA 94000</p>
+                            <p><strong>Email:</strong> contact@geolox.co.uk</p>
+                            <p><strong>Phone:</strong> +44 7721 335 963</p>
+                            <p><strong>Address:</strong> The Atlas Building, Harwell Campus, Oxfordshire, OX11 0QX, United Kingdom</p>
                         </div>
                         <div className="mt-8 p-4 bg-emerald-900/20 border-l-4 border-emerald-400 rounded shadow text-emerald-200">
                             <span className="font-semibold">Investor Note:</span> We welcome investor inquiries and are happy to provide a detailed deck and demo upon request.
@@ -98,7 +98,7 @@ export default function ContactSection() {
                                     </div>
                                     <div>
                                         <button type="submit" disabled={status === 'loading'} className="w-full bg-gradient-to-r from-cyan-500 to-emerald-500 text-slate-900 hover:from-cyan-400 hover:to-emerald-400 font-bold py-3 rounded-lg flex items-center justify-center text-lg shadow-lg transition-all duration-300">
-                                            {status === 'loading' ? (
+                                            {status === 'loading'? (
                                                 <Loader2 className="mr-2 h-4 w-4 animate-spin" />
                                             ) : (
                                                 <Send className="mr-2 h-4 w-4" />
