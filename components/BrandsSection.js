@@ -3,11 +3,11 @@ import { motion } from 'framer-motion';
 import { Briefcase, Zap, GitBranch, Cloud, Globe } from 'lucide-react';
 
 const brands = [
-  { name: 'QuantumLeap', icon: Briefcase, alt: 'QuantumLeap logo' },
-  { name: 'StellarForge', icon: Zap, alt: 'StellarForge logo' },
-  { name: 'ApexIndustries', icon: GitBranch, alt: 'ApexIndustries logo' },
-  { name: 'NovaCloud', icon: Cloud, alt: 'NovaCloud logo' },
-  { name: 'GeoGlobal', icon: Globe, alt: 'GeoGlobal logo' },
+  { name: 'Quantum Leap', icon: Briefcase, alt: 'Quantum Leap logo' },
+  { name: 'Stellar Forge', icon: Zap, alt: 'Stellar Forge logo' },
+  { name: 'Apex Industries', icon: GitBranch, alt: 'Apex Industries logo' },
+  { name: 'Nova Cloud', icon: Cloud, alt: 'Nova Cloud logo' },
+  { name: 'Geo-Global', icon: Globe, alt: 'Geo-Global logo' },
 ];
 
 export default function BrandsSection() {
