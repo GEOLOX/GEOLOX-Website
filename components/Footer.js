@@ -6,10 +6,7 @@ export default function Footer() {
     <footer className="bg-gray-900 text-gray-400">
       <div className="container mx-auto px-6 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-          <div>
-            <h3 className="text-lg font-semibold text-white mb-4">Veridian Dynamics</h3>
-            <p className="text-sm">Engineering the Future Since 1984.</p>
-          </div>
+          
           <div>
             <h3 className="text-lg font-semibold text-white mb-4">Quick Links</h3>
             <ul className="space-y-2 text-sm">
@@ -37,7 +34,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-12 border-t border-gray-800 pt-8 text-center text-sm">
-          <p>© {new Date().getFullYear()} Veridian Dynamics, Inc. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} All rights reserved.</p>
         </div>
       </div>
     </footer>
