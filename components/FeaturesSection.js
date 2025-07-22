@@ -11,7 +11,7 @@ const features = [
   {
     icon: Zap,
     title: "Predictive Insights for Growth",
-    description: "Leverage AI-driven analytics to forecast trends, optimize operations, and identify new opportunities ahead of the market.",
+    description: "Leverage AI-driven analytics to forecast trends, optimise operations, and identify new opportunities ahead of the market.",
   },
   {
     icon: Lock,
