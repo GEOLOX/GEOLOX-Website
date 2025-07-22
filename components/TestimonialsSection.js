@@ -3,21 +3,21 @@ import { Star } from 'lucide-react';
 
 const testimonials = [
   {
-    name: 'Sarah Lee',
-    role: 'COO, QuantumLeap',
-    avatar: 'https://randomuser.me/api/portraits/women/44.jpg',
+    name: ' ',
+    role: ' ,  ',
+    avatar: ' ',
     quote: 'Geolox transformed our logistics with real-time insights. Their platform is a game-changer for data-driven businesses.'
   },
   {
-    name: 'James Carter',
-    role: 'CTO, NovaCloud',
-    avatar: 'https://randomuser.me/api/portraits/men/32.jpg',
+    name: ' ',
+    role: ' ,  ',
+    avatar: ' ',
     quote: 'The accuracy and reliability of Geolox is unmatched. We trust them for mission-critical operations.'
   },
   {
-    name: 'Priya Patel',
-    role: 'VP of Product, StellarForge',
-    avatar: 'https://randomuser.me/api/portraits/women/68.jpg',
+    name: '  ',
+    role: ' ',
+    avatar: ' ',
     quote: 'Our investors were impressed by the clarity and impact of Geolox’s analytics. Highly recommended.'
   },
 ];
