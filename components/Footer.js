@@ -19,9 +19,8 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold text-white mb-4">Solutions</h3>
             <ul className="space-y-2 text-sm">
-              <li><Link href="#solutions" className="hover:text-white">Automation & Robotics</Link></li>
-              <li><Link href="#solutions" className="hover:text-white">Advanced Materials</Link></li>
-              <li><Link href="#solutions" className="hover:text-white">Sustainable Manufacturing</Link></li>
+              <li><Link href="#solutions" className="hover:text-white">Gelocation Solutions</Link></li>
+              <li><Link href="#solutions" className="hover:text-white">Satellite Communications</Link></li>
             </ul>
           </div>
           <div>
