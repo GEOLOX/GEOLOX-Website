@@ -29,13 +29,13 @@ export default function HeroSection() {
                     transition={{ duration: 0.8, delay: 0.2, ease: 'easeOut' }}
                     className="text-xl md:text-2xl text-gray-200 max-w-2xl mx-auto mb-10 font-medium"
                 >
-                    Geolox empowers organizations to make smarter, faster decisions with real-time geospatial intelligence. Our platform transforms complex location data into actionable insights, driving efficiency, growth, and competitive advantage across industries.
+                    GEOLOX empowers organisations to make smarter, faster decisions with real-time geospatial intelligence. Our platform transforms complex location data into actionable insights, driving efficiency, growth, and competitive advantage across industries.
                 </motion.p>
                 <motion.div
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.8, delay: 0.4, ease: 'easeOut' }}
-                    className="flex flex-col md:flex-row gap-4 justify-center items-center"
+                    className="flex flex-col md:flex-row gap-4 justify-centre items-centre"
                 >
                     <a 
                         href="#contact" 
@@ -66,7 +66,7 @@ export default function HeroSection() {
                         <div className="text-gray-300 text-lg">Uptime & Support</div>
                     </div>
                 </div>
-                <div className="mt-4 text-xs text-gray-400">*Accuracy metric based on internal platform benchmarks, available upon request.</div>
+                <div className="mt-4 text-xs text-grey-400"> Accuracy metric based on internal platform benchmarks, available upon request.</div>
             </div>
         </section>
     );
