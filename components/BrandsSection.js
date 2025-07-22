@@ -36,7 +36,7 @@ export default function BrandsSection() {
           ))}
         </div>
         <div className="mt-8 text-center">
-          <a href="#" className="text-cyan-400 hover:underline font-semibold text-base" aria-label="See case studies of how Geolox delivers value to industry leaders">
+          <a href="#" className="text-cyan-400 hover: underline font-semibold text-base" aria-label=" See case studies of how GEOLOX delivers value to industry leaders">
             See our Case Studies &rarr;
           </a>
         </div>
