@@ -19,7 +19,7 @@ const services = [
     icon: Target,
     title: 'Asset Tracking',
     description: 'Monitor valuable assets in real-time with secure, scalable tracking solutions for total operational visibility.',
-    industry: 'Ideal for: Supply Chain, Utilities, Construction'.
+    industry: 'Ideal for: Supply Chain, Utilities, Construction',
   },
 ];
 
